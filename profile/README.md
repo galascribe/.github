@@ -1,20 +1,27 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img src="banner-light.png" width="100%" alt="Galascribe. Sound like no one else. Write clearly. Share insights that are unmistakably yours.">
+</picture>
+
 # Galascribe
 
-**Every video, also as a written article on your own domain.**
+**Sound like no one else.** Write clearly. Share insights that are unmistakably yours.
 
-Galascribe writes the article for each of your videos from your own words, hosts it for you, and publishes it after you approve it.
+Galascribe is a writing platform for the AI era. When AI makes everyone's writing sound the same, your own voice is what stands out. Galascribe helps you write clearly, say what only you can, and publish it on a site you own.
 
-It is built for educators on YouTube who teach AI and cloud infrastructure.
+## For creators on YouTube
 
-## How it works
+Galascribe also turns your videos into written articles, in your own words.
 
 1. **Three free sample articles.** We write them from your own videos so you can judge the result.
 2. **You approve.** Nothing goes live until you say so.
 3. **Hosted on your domain.** Cancel any time and keep the files.
 
+[What you get and the price](https://app.galascribe.com/creators)
+
 ## Links
 
-- [What you get and the price](https://app.galascribe.com/creators)
+- [Galascribe](https://galascribe.com)
 - [About](https://app.galascribe.com/about)
 - [Blog](https://blog.galascribe.com)
 - [X](https://x.com/galascribe)
