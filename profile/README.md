@@ -22,10 +22,15 @@ Galascribe also turns your videos into written articles, in your own words.
 ## Links
 
 - [Galascribe](https://galascribe.com)
+
+## Social
+
 - [About](https://app.galascribe.com/about)
 - [Blog](https://blog.galascribe.com)
+- [Dev.to](https://dev.to/galascribe)
+- [LinkedIn](https://linkedin.com/company/galascribe)
+- [Medium](https://medium.com/@galascribe)
 - [X](https://x.com/galascribe)
-- [LinkedIn](https://www.linkedin.com/company/galascribe)
 
 ## Open source
 
